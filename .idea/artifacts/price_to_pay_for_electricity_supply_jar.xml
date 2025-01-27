@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="price_to_pay_for_electricity_supply:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/price_to_pay_for_electricity_supply_jar</output-path>
+    <root id="archive" name="price_to_pay_for_electricity_supply.jar">
+      <element id="module-output" name="price_to_pay_for_electricity_supply" />
+    </root>
+  </artifact>
+</component>
